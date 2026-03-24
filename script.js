@@ -1,8 +1,3 @@
-/* ============================================================
-   ASPACE — script.js
-   Location: Daraga, Albay (barangay-level listings)
-   ============================================================ */
-
 const listings = [
   {
     id: 1,
